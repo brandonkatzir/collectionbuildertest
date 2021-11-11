@@ -18,21 +18,21 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: Zarrow Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Native American Art
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
-# creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+keywords: oklahoma;art;native american
+# creator of the digital collection to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
+##author: 
 # Organization branding
-organization-name: "Digital Initiatives, University of Idaho Library"
-organization-link: https://www.lib.uidaho.edu/digital/
-organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
-organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
+organization-name: "Oklahoma State University"
+organization-link: https://library.okstate.edu
+organization-logo-banner: https://education.okstate.edu/site-files/images/marketing_communication/logos/osu_brand/osu-brand-black-and-white.png
+organization-logo-nav: https://education.okstate.edu/site-files/images/marketing_communication/logos/osu_brand/osu-brand-white.png
 
 ##########
 # COLLECTION SETTINGS
