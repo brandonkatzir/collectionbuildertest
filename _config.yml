@@ -18,21 +18,28 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Zarrow Collection
+title: CollectionBuilder CSV
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Native American Art
+tagline: Digital Collection Magic with Static Web Technologies
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: oklahoma;art;native american
-# creator of the digital collection to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-##author: 
+keywords: idaho;history;inland northwest
+# creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
+author: CollectionBuilder
 # Organization branding
+<<<<<<< HEAD
 organization-name: "Oklahoma State University"
 organization-link: https://library.okstate.edu
 organization-logo-banner: https://brand.okstate.edu/site-files/images/brand-guide/osu-nomenclature.png
 organization-logo-nav: https://brand.okstate.edu/site-files/images/brand-guide/osu-nomenclature.png
+=======
+organization-name: "Digital Initiatives, University of Idaho Library"
+organization-link: https://www.lib.uidaho.edu/digital/
+organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
+organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
+>>>>>>> parent of dac8281 (update to config file)
 
 ##########
 # COLLECTION SETTINGS
