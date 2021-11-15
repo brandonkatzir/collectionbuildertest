@@ -30,15 +30,21 @@ keywords: idaho;history;inland northwest
 author: CollectionBuilder
 # Organization branding
 <<<<<<< HEAD
+<<<<<<< HEAD
 organization-name: "Oklahoma State University"
 organization-link: https://library.okstate.edu
 organization-logo-banner: https://brand.okstate.edu/site-files/images/brand-guide/osu-nomenclature.png
 organization-logo-nav: https://brand.okstate.edu/site-files/images/brand-guide/osu-nomenclature.png
 =======
+=======
+>>>>>>> parent of dac8281 (update to config file)
 organization-name: "Digital Initiatives, University of Idaho Library"
 organization-link: https://www.lib.uidaho.edu/digital/
 organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
 organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
+<<<<<<< HEAD
+>>>>>>> parent of dac8281 (update to config file)
+=======
 >>>>>>> parent of dac8281 (update to config file)
 
 ##########
