@@ -1,0 +1,16 @@
+current directory: /Users/brandonkatzir/Documents/GitHub/collectionbuildertest/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/brandonkatzir/.rbenv/versions/3.0.1/bin/ruby -I /Users/brandonkatzir/.rbenv/versions/3.0.1/lib/ruby/3.0.0 -r ./siteconf20211111-74902-bixip5.rb extconf.rb
+creating Makefile
+
+current directory: /Users/brandonkatzir/Documents/GitHub/collectionbuildertest/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= clean
+
+current directory: /Users/brandonkatzir/Documents/GitHub/collectionbuildertest/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\=
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/brandonkatzir/Documents/GitHub/collectionbuildertest/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20211111-74902-19rb7u

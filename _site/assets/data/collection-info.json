@@ -1,0 +1,24 @@
+{ 
+    "title": "Zarrow Collection",
+    "url": "http://localhost:4000/demo/",
+    "image": "/demo/objects/demo_001.jpg", 
+    "description": "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology.",
+    "publisher": { 
+        "name": "Oklahoma State University", 
+        "url": "https://library.okstate.edu", 
+        "logo": "https://brand.okstate.edu/site-files/images/brand-guide/osu-nomenclature.png" 
+    },
+    "date_start": "1910",
+    "date_end": "2014",
+    "objects": {
+        "image/jpeg": "1",
+        "application/pdf": "2",
+        "audio/mpeg": "1",
+        "video/mp4": "2",
+        "image/jpg": "1"
+        
+    },
+    "data": "http://localhost:4000/demo/assets/data/datapackage.json",
+    "last_build_date": "2021-11-15"
+}
+

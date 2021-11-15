@@ -1,0 +1,8 @@
+location,count,link
+"moscow, idaho",3,"http://localhost:4000/demo/browse.html#moscow,%20idaho"
+"spokane, washington",1,"http://localhost:4000/demo/browse.html#spokane,%20washington"
+"ashland, or",1,"http://localhost:4000/demo/browse.html#ashland,%20or"
+"bonner county",1,"http://localhost:4000/demo/browse.html#bonner%20county"
+"priest river experimental forest",1,"http://localhost:4000/demo/browse.html#priest%20river%20experimental%20forest"
+"benton creek",1,"http://localhost:4000/demo/browse.html#benton%20creek"
+"bonneville dam",1,"http://localhost:4000/demo/browse.html#bonneville%20dam"
